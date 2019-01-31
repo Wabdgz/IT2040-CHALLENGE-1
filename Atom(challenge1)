@@ -1,7 +1,7 @@
 [README.md link](https://github.com/Wabdgz/IT2040-CHALLENGE-1/blob/master/README.md)
 
 ```C++
-printf("This is C code.");
+printf("this is C code");
 ```
 table|table1|table2
 ---|---|---
