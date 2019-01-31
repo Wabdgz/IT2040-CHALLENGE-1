@@ -7,4 +7,4 @@
 *Italicized Text*
 ~~Strikethrough Text~~
 
-[atom file](https://github.com/Wabdgz/IT2040-CHALLENGE-1/blob/master/Atom(challenge1))
+[atom file](https://github.com/Wabdgz/IT2040-CHALLENGE-1/blob/master/Atom(challenge1).md)
